@@ -15,8 +15,8 @@ In this Hands-On Lab, you will learn how to use the Windows Azure IaaS platform 
 
 In this hands-on lab, you will learn how to: 
 
-- Create Linux virtual machines in Windows Azure
-- Install and configure an Apache web server with MySql 
+- Create Linux virtual machines in Windows Azure.
+- Install and configure an Apache web server with MySql .
 - Install and configure Drupal CMS
 
 <a name="Prerequisites" />
